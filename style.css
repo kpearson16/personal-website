@@ -1,7 +1,8 @@
 body{
     background-color: rgb(133, 179, 137);
     text-align: center;
-    
+    margin-left: 25%;
+    max-width: 50vw;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -10,9 +11,9 @@ img {
     border-radius: 45%;
 }
 p{
-   max-width: 780px; 
    color: rgb(147, 31, 109);
    font-weight: 600;
+   text-align: center;
 }
 ul {
     list-style-type: none;
