@@ -1,6 +1,28 @@
 body{
-    background-color: rgb(255, 238, 218);
+    background-color: rgb(133, 179, 137);
+    text-align: center;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 500px;
+    border-radius: 45%;
 }
 p{
-    
+   max-width: 780px; 
+   color: rgb(147, 31, 109);
+   font-weight: 600;
+}
+ul {
+    list-style-type: none;
+}
+h1 {
+    color: rgb(221, 133, 131);
+    background-color: rgb(77, 25, 87);
+    border-radius: 30%;
+}
+h2, h4 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
